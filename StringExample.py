@@ -39,3 +39,4 @@ print(letters3)
 #If I want to print out all letters
 for i in range(len(name)):
 	print(name[i])
+	
