@@ -1,4 +1,4 @@
-#This file will go throught the basics of manipulation
+#This file will go through the basics of manipulation
 #String manipulation
 
 #Strings are collections of characters 
