@@ -23,7 +23,7 @@ print("************************************************")
 word = ""
 
 
-while len(word) < 6 or word.isalpha() == False:
+while (len(word) < 6 or word.isalpha() == False):
 	#Loop block
 	word = input("Please input a word larger than 5 letters: ")
 	print(word.isalpha()) 
@@ -31,8 +31,22 @@ while len(word) < 6 or word.isalpha() == False:
 		print("Big Manz, I said less than five letters")
 
 		if (word.isalpha() == False):
-			print("Big Manz I said a real word")
+			print("Big Manz, I said a real word")
 
 
 
 print(word+" is a seriously long word!")
+#Do not use while loops to control inputs with GUI programs
+
+
+
+
+
+
+
+
+
+
+
+
+
