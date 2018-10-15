@@ -13,6 +13,9 @@ d = int(input(""))
 
 
 #Process
+if a = 8 or a = 9
+    
+
 
 
 
