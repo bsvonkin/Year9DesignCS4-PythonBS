@@ -28,4 +28,4 @@ for i in range(-44,137,1):
 	else:
 		print(str(i)+"is odd")
 
-		
+	
